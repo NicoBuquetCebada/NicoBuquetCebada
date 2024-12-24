@@ -7,6 +7,7 @@
   - &nbsp;🌱 &nbsp;Aprediendo ciberseguridad
   - &nbsp;⬇️ &nbsp;Descarga mi [CV](CV.pdf)
   - &nbsp;&nbsp;<img height="13" width="13" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />&nbsp;&nbsp;&nbsp;Accede a mi [Linkedin](https://www.linkedin.com/in/nicobuquetcebada/)
+  - &nbsp;📬 &nbsp;Enviame un [e-mail](mailto:nicobuquetcebada@gmail.com)
 
 ## Lenguajes y Tecnologías
 <h4>Mis lenguajes más utilizados son: </h4>
