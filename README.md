@@ -1,11 +1,18 @@
-## Hi there 👋
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
+## Soy Nicolás Buquet Cebada
+  - 💻 Desarrollador de Softwre.
+  - 🔭 Estudiante de: [Campus 42](https://www.fundaciontelefonica.com/empleabilidad/campus-42/) y del grado superior de [DAW](https://www.comunidad.madrid/sites/default/files/doc/educacion/fp/FP-Ensenanza-IFCS03-LOE-Ficha.pdf)
+  - 🌱 Aprediendo ciberseguridad.
+  - ⬇️ Descarga mi CV.
+  - <img height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+  
 <!--
 **NicoBuquetCebada/NicoBuquetCebada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Soy estudiante de Desarrollo de Aplicaciones Web
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
