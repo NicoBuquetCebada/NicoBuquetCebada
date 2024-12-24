@@ -6,7 +6,7 @@
   - &nbsp;🔭 &nbsp;Estudiante de: [Campus 42](https://www.fundaciontelefonica.com/empleabilidad/campus-42/) y del grado superior de [DAW](https://www.comunidad.madrid/sites/default/files/doc/educacion/fp/FP-Ensenanza-IFCS03-LOE-Ficha.pdf)
   - &nbsp;🌱 &nbsp;Aprediendo ciberseguridad
   - &nbsp;⬇️ &nbsp;Descarga mi [CV](CV.pdf)
-  - &nbsp;&nbsp;<img height="13" width="13" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />&nbsp;&nbsp;Accede a mi [Linkedin](www.linkedin.com/in/nicobuquetcebada)
+  - &nbsp;&nbsp;<img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />&nbsp;&nbsp;Accede a mi [Linkedin](www.linkedin.com/in/nicobuquetcebada)
 
 ## Lenguajes y Tecnologías
 <h4>Mis lenguajes más utilizados son: </h4>
