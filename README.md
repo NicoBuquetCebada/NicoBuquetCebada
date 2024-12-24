@@ -1,12 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Hola! soy Nicolás Buquet Cebada 👋
-  - 💻 &nbsp;Desarrollador de Softwre
-  - 🌍 &nbsp;Comunidad de Madrid, España
-  - 🔭 &nbsp;Estudiante de: [Campus 42](https://www.fundaciontelefonica.com/empleabilidad/campus-42/) y del grado superior de [DAW](https://www.comunidad.madrid/sites/default/files/doc/educacion/fp/FP-Ensenanza-IFCS03-LOE-Ficha.pdf)
-  - 🌱 &nbsp;Aprediendo ciberseguridad
-  - ⬇️ &nbsp;Descarga mi [CV](CV.pdf)
-  - &nbsp;<img height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />&nbsp;&nbsp;Accede a mi [Linkedin](www.linkedin.com/in/nicobuquetcebada)
+  - &nbsp;💻 &nbsp;Desarrollador de Softwre
+  - &nbsp;🌍 &nbsp;Comunidad de Madrid, España
+  - &nbsp;🔭 &nbsp;Estudiante de: [Campus 42](https://www.fundaciontelefonica.com/empleabilidad/campus-42/) y del grado superior de [DAW](https://www.comunidad.madrid/sites/default/files/doc/educacion/fp/FP-Ensenanza-IFCS03-LOE-Ficha.pdf)
+  - &nbsp;🌱 &nbsp;Aprediendo ciberseguridad
+  - &nbsp;⬇️ &nbsp;Descarga mi [CV](CV.pdf)
+  - &nbsp;&nbsp;<img height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />&nbsp;&nbsp;Accede a mi [Linkedin](www.linkedin.com/in/nicobuquetcebada)
 
 ## Lenguajes y Tecnologías
 <h4>Mis lenguajes más utilizados son: </h4>
