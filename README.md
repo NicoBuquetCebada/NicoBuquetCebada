@@ -38,6 +38,7 @@
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Quarkus](http://img.shields.io/badge/-Quarkus-000000?style=flat-square&logo=quarkus&logoColor=ffffff)
 ![PHP](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
+![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 
 ##### Sistemas y herramientas
