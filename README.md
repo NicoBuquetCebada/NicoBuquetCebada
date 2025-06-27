@@ -54,6 +54,6 @@
 #### Sobre mi 👨‍💻
 Soy un desarrollador de software titulado en Desarrollo de Aplicaciones Web y actualmente estudiante en 42 Telefónica. Poseo sólidos conocimientos en programación de backend y frontend, así como en sistemas informáticos, conformando un perfil fullstack.
 
-Tengo experiencia práctica en el desarrollo y despliegue de aplicaciones web, aplicando tecnologías como Spring y Quarkus en el backend, React en el frontend y Kubernetes para el despliegue. Esto se refleja en mi [TFC](https://github.com/NicoBuquetCebada/vibra) , un desarrollo completo que integra gran parte de mis conocimientos y que fue calificado con un 10.
+Tengo experiencia práctica en el desarrollo y despliegue de aplicaciones web, aplicando tecnologías como Spring y Quarkus en el backend, React en el frontend y Kubernetes para el despliegue. Esto se refleja en mi [Trabajo de fin de ciclo](https://github.com/NicoBuquetCebada/vibra), un desarrollo completo que integra gran parte de mis conocimientos y que fue calificado con un 10.
 
 Soy una persona con hambre constante de nuevos conocimientos y siempre dispuesto a aprender y asumir nuevos retos.
